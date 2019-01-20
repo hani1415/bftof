@@ -5,7 +5,7 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-const developers = ["الاي دي حقك"]
+const developers = ["377134977935998978"]
 client.on('message', message => {
 	var prefix = '!'
 	
